@@ -48,3 +48,11 @@ This repository contains both the frontend and backend applications for the Fres
 - Meal planning & nutrition tracking
 - Grocery management
 - Waste reduction statistics
+
+## Screenshots
+![Screenshot 1](Screen%20SHots/Screenshot_20260315_172638.png)
+![Screenshot 2](Screen%20SHots/Screenshot_20260315_172755.png)
+![Screenshot 3](Screen%20SHots/Screenshot_20260315_172817.png)
+![Screenshot 4](Screen%20SHots/Screenshot_20260315_172830.png)
+![Screenshot 5](Screen%20SHots/Screenshot_20260315_172846.png)
+
